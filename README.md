@@ -11,3 +11,4 @@ git remote -v // see the origin
 ssh-keygen -t rsa -b 4096 -C "<email>"
 git branch // give all branches
 git checkout -b feature  // checkout for traversal bw branches and -b for creating new branch
+git diff name // give diff bw current branch and name branch
