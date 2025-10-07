@@ -3,6 +3,7 @@
 Some text
 
 git add .
+git push origin master/main
 git status
 git commit -m "" -m ""
 git remote add origin ....
